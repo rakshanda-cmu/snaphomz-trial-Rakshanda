@@ -20,7 +20,7 @@ Quick setup
 Files & models
 --------------
 - Notebook: [notebooks/trial.ipynb](notebooks/trial.ipynb)
-- Reference script: [notebooks/predictPrice_v1.py](notebooks/predictPrice_v1.py)
+- Reference script: [notebooks/trial.ipynb](notebooks/trial.ipynb)
 - Data: [data/listings_sample.csv](data/listings_sample.csv)
 - Saved embeddings (one-time cache): [models/corpus_emb.npy](models/corpus_emb.npy)
 - Local LLM (gguf): [models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf](models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf)
@@ -55,7 +55,7 @@ How to run (recommended)
 
 Predictive model
 ----------------
-- Baseline training and evaluation live in the notebook (target: `price_per_sqft`) and in [notebooks/predictPrice_v1.py](notebooks/predictPrice_v1.py).
+- Baseline training and evaluation live in the notebook (target: `price_per_sqft`) and in [notebooks/trial.ipynb](notebooks/trial.ipynb).
 - The notebook prints baseline metrics for LinearRegression and RandomForest and shows top features.
 
 Design decisions & assumptions
