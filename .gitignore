@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+notebooks/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
+models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
+mistral_models/7B-Instruct-v0.3/consolidated.safetensors
+mistral_models/7B-Instruct-v0.3/tokenizer.model.v3
+notebooks/screenshots/Screenshot 2025-10-22 at 8.38.20 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.38.11 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.37.45 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.37.28 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.37.22 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.37.12 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.36.46 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.36.36 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.36.31 PM.png
+notebooks/screenshots/Screenshot 2025-10-22 at 8.36.01 PM.png
+
+mistral_models/*
+
+Untitled-1.ipynb
+Untitled-2.ipynb
